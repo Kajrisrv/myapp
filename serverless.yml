@@ -1,6 +1,6 @@
-service: slsnew
+service: my-typescript-rest-api-app
 # app and org for use with dashboard.serverless.com
-app: slsnew
+app: myapp
 org: ami01
 
 # You can pin your service to only deploy with a specific Serverless version
