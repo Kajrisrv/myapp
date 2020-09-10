@@ -3,7 +3,7 @@ import { APIGatewayProxyHandler, APIGatewayProxyResult, APIGatewayProxyEvent, Co
 export const helloHandler: APIGatewayProxyHandler = async (event:APIGatewayProxyEvent, context:Context) => {
     let response:APIGatewayProxyResult;
     response = {
-        body: "Hello World!",
+        body: "Hello World!!!",
         statusCode: 200
     }
 
