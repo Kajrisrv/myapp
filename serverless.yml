@@ -1,7 +1,7 @@
 service: my-typescript-rest-api-app
 # app and org for use with dashboard.serverless.com
 app: my-typescript-rest-api-app
-org: ami01
+org: kajrisrv
 
 # You can pin your service to only deploy with a specific Serverless version
 # Check out our docs for more details
